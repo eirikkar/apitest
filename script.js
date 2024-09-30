@@ -1,32 +1,3 @@
-// function myFunction() {
-//   return "Hello World!";
-// }
-
-// const myArrowFunction = () => {
-//   return "Hello World!";
-// };
-
-// let lives = 0;
-
-// function checkLives() {
-//   if (lives === 0) {
-//     return "Game Over!";
-//   } else {
-//     return "Keep playing!";
-//   }
-// }
-
-// const userName = "kitty";
-// const userKills = 40;
-
-// const greeter = (name, kills) => {
-//   return `Hello ${name} you have ${kills} kills!`;
-// };
-
-// const adder = (num1, num2) => {
-//   return num1 + num2;
-// };
-
 // Henter data fra API
 const getData = async () => {
   const response = await fetch(
